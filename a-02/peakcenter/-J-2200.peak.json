@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLugEr6F3uBAu6iMvo18G0C7sQW99CIQQLu5f74d1fxAu8H4viuAhUC7ynK+DTwJQLvS674WPHZAu9tlPXgTd0C74948lmZoQLvsWD4HgsJAu/TRPWz+40C7/Uo9r7cLQLwFxD4dgMxAvA49PZnU9EC8Frc9qF9yQLwfMD2oU0hAvCeqPeIqyUC8MCM+G5nTQLw4nT4pVVxAvEEWPZ1M+UC8SZA+R7TSQLxSCT0ao7dAvFqDvRNku0C8Yvw9MqZ/QLxrdr5lXQ5AvHPvvdTrlkC8fGm+g0XiQLyE4r2aqLtAvI1bvmPzlEC8ldW980FB",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLugEgAAAABAu6iMAAAAAEC7sQU5IBVLQLu5fzogFUxAu8H4O1Ib9UC7ynI7lhP5QLvS6zwqFqdAu9tlPI/TLEC74949PXlYQLvsWD2/Wb1Au/TRPmI25EC7/Uo+rmQlQLwFxD7SgWJAvA49PtDJIkC8Frc+0oFiQLwfMD7SRVpAvCeqPtMNd0C8MCM+1GGpQLw4nT7Ywk1AvEEWPs9g7UC8SZA+0N0lQLxSCT7E52dAvFqDPsQzTUC8Yvw+rcQOQLxrdj5xEPlAvHPvPdbM70C8fGk9BdHfQLyE4jvXHKNAvI1bOsgan0C8ldU5IBVL",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.878229879759518,
+        "center_signal": 131.22161021878418,
+        "high_dac": 5.886135691382764,
+        "high_resolving_power": 1255.3853461538347,
+        "high_signal": 96.59399167350398,
+        "low_dac": 5.870324068136272,
+        "low_resolving_power": 1375.0641830985496,
+        "low_signal": 96.78034015216988,
+        "points": "QLugEj1KCb1Au6iMPlcoEkC7sQU+9AfOQLu5fz/1XyBAu8H4QM7Hn0C7ynJB4TOmQLvS60KC7j1Au9tlQs6mxkC7495C93Y/QLvsWEMCD7VAu/TRQwMesEC7/UpDAx7eQLwFxEMDNwtAvA49QwMwDUC8FrdDAye0QLwfMEMDFdNAvCeqQwLsvUC8MCNDAwLjQLw4nUMCobxAvEEWQwI690C8SZBDADWWQLxSCULw6iZAvFqDQsZ38EC8YvxCeVRMQLxrdkHb9hhAvHPvQQCBGkC8fGk/xle8QLyE4j6hlghAvI1bPiFZ3kC8ldU9OptH",
+        "resolution": 267.8809780821915
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLugErzR7CJAu6iMvXTNyUC7sQW95bi3QLu5f7y5/+hAu8H4vNIbEEC7ynK92y4vQLvS672W9qBAu9tlvfmoD0C74969MyZuQLvsWL1rgQRAu/TRvIfcOUC7/Uq7HPUAQLwFxLzloNpAvA49vYKl2UC8Fre7nDi8QLwfML3wj1tAvCeqvct4tEC8MCM8sLDdQLw4nTwEZOBAvEEWvYW3kkC8SZC81+FMQLxSCb2oBmJAvFqDvYvg10C8Yvy9q0y3QLxrdr2a21RAvHPvvTniskC8fGm9o/LZQLyE4r11rJ1AvI1bveYz6EC8ldW9rJrf",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
