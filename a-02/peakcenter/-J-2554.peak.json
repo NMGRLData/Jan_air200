@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLub273Q4l1Au6RVvmY5LUC7rM68uxDxQLu1SL2F1jlAu73BvgCCPEC7xjo9szy8QLvOtD2Ad39Au9ctPhiCeEC736c+nlXSQLvoID73KCFAu/CaPsD1ykC7+RM+0vm6QLwBjT63RixAvAoGPyCkREC8EoA+43lYQLwa+T7wjKFAvCNzPvtiMkC8K+w+19wRQLw0Zj7rbkFAvDzfPtHNukC8RVg+v5MYQLxN0j6CEOdAvFZLPn4Oh0C8XsU9zmvnQLxnPr25vTZAvG+4vbsp20C8eDG9Q9vaQLyAq73YvbhAvIkkvgsFbkC8kZ6+KSP8",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLub2wAAAABAu6RVAAAAAEC7rM45IBVLQLu1SDpIGp9Au73BOwIRTkC7xjo7jBKkQLvOtDwvF1JAu9ctPJTT10C736c9HjUkQLvoID2fdWlAu/CaPjw5l0C7+RM+oQY6QLwBjT7E52dAvAoGPsejzUC8EoA+yPf+QLwa+T7He8dAvCNzPs+I80C8K+w+yBveQLw0Zj7LoGFAvDzfPs908EC8RVg+wlMHQLxN0j66lehAvFZLPrlpvEC8XsU+or55QLxnPj5vCLBAvG+4Pea/HEC8eDE9GdSOQLyAqzv6IU1AvIkkOwIRTkC8kZ45oBVL",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.8780158670900065,
+        "center_signal": 127.85272142208336,
+        "high_dac": 5.885681197751328,
+        "high_resolving_power": 1255.3012468708914,
+        "high_signal": 95.51153625679247,
+        "low_dac": 5.870350536428684,
+        "low_resolving_power": 1235.7721171636358,
+        "low_signal": 94.97346504149719,
+        "points": "QLub2zzoSx9Au6RVPkmC60C7rM4/AhP4QLu1SD/XBjxAu73BQLwhN0C7xjpBmf+iQLvOtEJAaJ5Au9ctQqkl+0C736dC3/j0QLvoIEL4YwRAu/CaQv4X4EC7+RNC/1N4QLwBjUL/Hl5AvAoGQv9dIUC8EoBC/6c4QLwa+UL+2ptAvCNzQv98qEC8K+xC/zbjQLw0ZkL+jq9AvDzfQv1+7UC8RVhC+hN1QLxN0kLtIIZAvFZLQsdwu0C8XsVCgN3sQLxnPkHoFWJAvG+4QQ1/bkC8eDE/3PXNQLyAqz5EUfVAvIkkPg1exUC8kZ49jiRa",
+        "resolution": 267.1297739233164
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLub27y6Rk1Au6RVPM9R+UC7rM48p/qrQLu1SL3EdxNAu73BvfGuyUC7xjq9gvITQLvOtL2eorNAu9ctvdBZK0C736e8QxYUQLvoIL0WvbFAu/Cavc8LE0C7+RM75HquQLwBjb3Qn4FAvAoGvYC/KkC8EoC8s074QLwa+TuQIIFAvCNzvXiypEC8K+y9Tjp+QLw0ZrrvGn9AvDzfO4exH0C8RVi9rekGQLxN0r1wltJAvFZLvOrCzkC8XsU89jRnQLxnPjyp/yJAvG+4vaWkrkC8eDG9gWk2QLyAq70cArVAvIkkvjCHJEC8kZ69J9Uh",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
