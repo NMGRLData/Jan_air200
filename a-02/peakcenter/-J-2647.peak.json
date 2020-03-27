@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuaI70OCWVAu6KcvhRSkUC7qxa+IfbnQLuzj71OQuhAu7wJvPEH2kC7xII+BWJCQLvM/D2PYqdAu9V1PhAd/EC73e4+mZnNQLvmaD6a6kpAu+7hPpr2eUC791s+pZMYQLv/1D66/XlAvAhOPpdPoEC8EMc+yAyGQLwZQT6/qe1AvCG6PpaDnUC8KjQ+yjzUQLwyrT6y2FBAvDsnPphK10C8Q6A+eRlqQLxMGj6pFadAvFSTPjzME0C8XQw+B/mUQLxlhj1P9EZAvG3/ve6mAUC8dnm96RIrQLx+8r1E2zdAvIdsvHLtBEC8j+W+NmNo",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuaIwAAAABAu6KcAAAAAEC7qxY58B/xQLuzjzqMEqJAu7wJOsgan0C7xII7vhlOQLvM/DwbFKdAu9V1PJOTrEC73e49ILV6QLvmaD27STBAu+7hPlJEqUC791s+niHRQLv/1D6/5q1AvAhOPsp0NkC8EMc+z7D5QLwZQT7JwBtAvCG6PsSDWEC8KjQ+v4KeQLwyrT7Fr4RAvDsnPsDCzUC8Q6A+wbLwQLxMGj66RdxAvFSTPrpZ30C8XQw+pBKqQLxlhj5jdxBAvG3/Pde9D0C8dnk9ANEzQLx+8jvmHqNAvIdsOiAVTEC8j+U5IBVL",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.877655567725474,
+        "center_signal": 124.91545604651363,
+        "high_dac": 5.8855313192284795,
+        "high_resolving_power": 1239.3734718543942,
+        "high_signal": 92.85959578903932,
+        "low_dac": 5.869779816222468,
+        "low_resolving_power": 1235.6899275505968,
+        "low_signal": 92.78359876738303,
+        "points": "QLuaIz4K7SNAu6KcPiDsXEC7qxY/KNi6QLuzj0AGfwNAu7wJQPRUhkC7xIJBxXTuQLvM/EJp235Au9V1QrsWd0C73e5C5AHRQLvmaELz7GBAu+7hQvjUuUC791tC+dS0QLv/1EL5ctNAvAhOQvlT7kC8EMdC+WKWQLwZQUL5Qb9AvCG6QvlQ20C8KjRC+QKuQLwyrUL4mbBAvDsnQvf9nkC8Q6BC9D7MQLxMGkLoULhAvFSTQsSYIEC8XQxChWuUQLxlhkIDRnVAvG3/QSaDu0C8dnk/QUJrQLx+8j4OILhAvIdsPSkTb0C8j+U8baqP",
+        "resolution": 264.22974128784244
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuaI7ywSJ9Au6KcvLwEIkC7qxY9jZXvQLuzj73yL9VAu7wJvhTiJUC7xIK9mWQaQLvM/L1ILkJAu9V1PNhOt0C73e69LxJ5QLvmaLxOdAtAu+7hvbNiGUC791u9O6BrQLv/1Lz0eedAvAhOPa5iEkC8EMe9E03jQLwZQTvzhCRAvCG6vbWsUEC8KjQ73McEQLwyrb2LZbZAvDsnOxKxQ0C8Q6C93aHmQLxMGr2JUCRAvFSTvGKe1EC8XQw9BCLQQLxlhr3cjixAvG3/vR8UpkC8dnm9bh2DQLx+8r2a/oJAvIdsvdrElkC8j+U8ltTG",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
