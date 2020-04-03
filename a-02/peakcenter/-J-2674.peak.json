@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLueUL4dq6FAu6bKvd0JjUC7r0O9zKiyQLu3vb1tzMJAu8A2vb4bc0C7yLA8OSMJQLvRKT5KfzBAu9mjPqRfd0C74hw/Jq3TQLvqlT82Z/pAu/MPPzUOUkC7+4g/OcwnQLwEAj86WfhAvAx7P0B9lUC8FPU/UUxUQLwdbj9aCMNAvCXoP068z0C8LmE/QT6IQLw22z9cPDFAvD9UP09JOEC8R84/QKkNQLxQRz8rghVAvFjBPtR3+UC8YTo94lAjQLxpsz1VLf1AvHItvck3i0C8eqa82vbEQLyDIL2gw1tAvIuZvbBWfkC8lBO+FMX5",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLueUAAAAABAu6bKAAAAAEC7r0M6IBVMQLu3vTpwH/JAu8A2OvAf80C7yLA7lhP5QLvRKTwbFKdAu9mjPJnUgkC74hw9JRYRQLvqlT3Nu7JAu/MPPlZVOkC7+4g+qP9fQLwEAj61RSNAvAx7PssUTUC8FPU+xYd+QLwdbj7E02RAvCXoPso4LUC8LmE+xB9KQLw22z7Bnu1AvD9UPr6mf0C8R84+wOrTQLxQRz621V1AvFjBPrnhzkC8YTo+oBYYQLxpsz5cRg9AvHItPbzZZkC8eqY83p21QLyDIDvIGqNAvIuZOtwdSUC8lBM6IBVM",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.878075384361409,
+        "center_signal": 129.29511448668697,
+        "high_dac": 5.885800835263213,
+        "high_resolving_power": 1288.3485161387996,
+        "high_signal": 95.73430496899368,
+        "low_dac": 5.870349933459606,
+        "low_resolving_power": 1251.6216311097742,
+        "low_signal": 96.80859674531462,
+        "points": "QLueUD1qOK5Au6bKPn7Oq0C7r0M/K8SaQLu3vUATKxJAu8A2QQNcFkC7yLBBzLLCQLvRKUJuYOxAu9mjQr+lzUC74hxC7Q/SQLvqlUL9tiVAu/MPQwDXIEC7+4hDAUcKQLwEAkMBJYhAvAx7QwD4FUC8FPVDAOKdQLwdbkMBN/hAvCXoQwFAjEC8LmFDAOqXQLw220MAg/RAvD9UQwAPr0C8R85C+7boQLxQR0LrRr5AvFjBQr1orUC8YTpCYaOjQLxps0GzzohAvHItQL14XUC8eqY/i07tQLyDID5msoNAvIuZPYYhtEC8lBM8UGA4",
+        "resolution": 267.862978702873
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLueUL5m4KlAu6bKvRcbiUC7r0O+CM+NQLu3vbzPFL9Au8A2va/+fkC7yLC8/CzKQLvRKbzzAn9Au9mjvia0BUC74hy9r2YTQLvqlT3HjNlAu/MPvbWaukC7+4i9CnXTQLwEAr2Ze45AvAx7vZxMsUC8FPW77OV2QLwdbr2ZsFJAvCXoPU2+K0C8LmG9fzP1QLw2270F7HJAvD9UPKfjMUC8R866lCgdQLxQR74FjrlAvFjBvUdbIkC8YTo7SPgyQLxps71/Yt5AvHItvPEVxUC8eqa83LzhQLyDIL1xgWFAvIuZvYjgvEC8lBO9Glxp",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
